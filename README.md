@@ -16,7 +16,7 @@ It only includes **visual previews** strictly for portfolio and hiring review.
 
 ## 👨‍💻 My Role & Contributions
 
-I worked on integrating and improving multiple modules within the Guard Pass app:
+I worked on integrating and improving multiple modules within the personal license app:
 
 - ✅ **Integrated the full quiz system** for exam preparation  
 - ▶️ **Implemented video player screens** for learning materials  
